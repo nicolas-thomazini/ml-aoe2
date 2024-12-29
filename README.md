@@ -1,0 +1,1 @@
+The project "ML-AEO 2" will be created to training a model that predict what civilization is better than other when selected, based a dataset that contains ranked matches 1x1.
